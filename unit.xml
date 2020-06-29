@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite errors="0" failures="0" file="rest_api/tests.py" name="rest_api.tests.WeatherEndpointWithDELETESingleTestCase-20200623133351" skipped="0" tests="2" time="0.054" timestamp="2020-06-23T13:33:51">
+		<testcase classname="rest_api.tests.WeatherEndpointWithDELETESingleTestCase" file="rest_api/tests.py" line="117" name="test_with_existing_record" time="0.041" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+		<testcase classname="rest_api.tests.WeatherEndpointWithDELETESingleTestCase" file="rest_api/tests.py" line="125" name="test_with_non_existing_record" time="0.014" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+	</testsuite>
+	<testsuite errors="0" failures="0" file="rest_api/tests.py" name="rest_api.tests.WeatherEndpointWithGETListTestCase-20200623133351" skipped="0" tests="1" time="0.025" timestamp="2020-06-23T13:33:51">
+		<testcase classname="rest_api.tests.WeatherEndpointWithGETListTestCase" file="rest_api/tests.py" line="100" name="test_list_matches" time="0.025" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+	</testsuite>
+	<testsuite errors="0" failures="0" file="rest_api/tests.py" name="rest_api.tests.WeatherEndpointWithGETSingleTestCase-20200623133351" skipped="0" tests="2" time="0.025" timestamp="2020-06-23T13:33:51">
+		<testcase classname="rest_api.tests.WeatherEndpointWithGETSingleTestCase" file="rest_api/tests.py" line="72" name="test_with_existing_record" time="0.012" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+		<testcase classname="rest_api.tests.WeatherEndpointWithGETSingleTestCase" file="rest_api/tests.py" line="79" name="test_with_non_existing_record" time="0.013" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+	</testsuite>
+	<testsuite errors="0" failures="0" file="rest_api/tests.py" name="rest_api.tests.WeatherEndpointWithPOSTTestCase-20200623133351" skipped="0" tests="1" time="0.005" timestamp="2020-06-23T13:33:51">
+		<testcase classname="rest_api.tests.WeatherEndpointWithPOSTTestCase" file="rest_api/tests.py" line="52" name="test_with_valid_data" time="0.005" timestamp="2020-06-23T13:33:51">
+			<system-out>
+<![CDATA[]]>			</system-out>
+			<system-err>
+<![CDATA[]]>			</system-err>
+		</testcase>
+	</testsuite>
+</testsuites>
