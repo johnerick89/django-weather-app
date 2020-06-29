@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Environment:
 - Python version: 3.7
 - Django version: 3.0.6
@@ -44,3 +45,7 @@ DELETE request to `/weather/<id>/`:
 - deletes the record with the given id from the collection
 - if matching record existed, the response code is 204
 - if there was no record in the collection with the given id, the response code is 404
+=======
+# django-weather-app
+Testing django rest framework
+>>>>>>> 34af4099ff57d1626ac96a8e084e32832ca8561e
